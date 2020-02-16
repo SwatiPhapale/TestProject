@@ -1,0 +1,16 @@
+C:\Practice Project\ParsetheParcel\bin\Debug\netstandard2.0\ParsetheParcel.deps.json
+C:\Practice Project\ParsetheParcel\bin\Debug\netstandard2.0\ParsetheParcel.dll
+C:\Practice Project\ParsetheParcel\bin\Debug\netstandard2.0\ParsetheParcel.pdb
+C:\Practice Project\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.csprojAssemblyReference.cache
+C:\Practice Project\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.AssemblyInfoInputs.cache
+C:\Practice Project\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.AssemblyInfo.cs
+C:\Practice Project\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.dll
+C:\Practice Project\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.pdb
+C:\Practice Project\Demo\ParsetheParcel\bin\Debug\netstandard2.0\ParsetheParcel.deps.json
+C:\Practice Project\Demo\ParsetheParcel\bin\Debug\netstandard2.0\ParsetheParcel.dll
+C:\Practice Project\Demo\ParsetheParcel\bin\Debug\netstandard2.0\ParsetheParcel.pdb
+C:\Practice Project\Demo\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.csprojAssemblyReference.cache
+C:\Practice Project\Demo\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.AssemblyInfoInputs.cache
+C:\Practice Project\Demo\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.AssemblyInfo.cs
+C:\Practice Project\Demo\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.dll
+C:\Practice Project\Demo\ParsetheParcel\obj\Debug\netstandard2.0\ParsetheParcel.pdb
